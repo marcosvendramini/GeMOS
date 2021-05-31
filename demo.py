@@ -153,8 +153,8 @@ def test_gemos(test_loader, net, model_list):
         return scr_list, prd_list, lab_list, out_list, inps_list, inps_prd, inps_scr, inps_lab
 
 # Setting root dirs.
-dir_omniglot = './././OMNIGLOT/'
-dir_mnist = './././MNIST/'
+dir_omniglot = './OMNIGLOT/'
+dir_mnist = './MNIST/'
 
 common_transform = transforms.Compose([transforms.Resize(28),
                                        transforms.ToTensor(),
