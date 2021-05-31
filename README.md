@@ -1,2 +1,9 @@
 # GeMOS
 Demo notebook: https://colab.research.google.com/drive/1IlRDJQYSRkRlGBCwvroL38zNjjkEyPot?usp=sharing
+
+Python 3.6.8
+numpy==1.18.4
+sklearn==0.0
+torch==1.5.0
+torchvision==0.6.0
+matplotlib==3.2.1
