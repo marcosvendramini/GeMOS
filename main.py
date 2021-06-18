@@ -1,7 +1,7 @@
 from utils import *
 
 cudnn.benchmark = True
-torch.cuda.set_device('cuda:2')
+torch.cuda.set_device('cuda:0')
 model, model_list, in_inps, in_inps_lab = start("MNIST")
 
 prd = evaluate(model, model_list, 0.85, in_inps[0], "MNIST")
