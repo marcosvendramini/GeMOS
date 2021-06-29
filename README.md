@@ -1,4 +1,6 @@
 # GeMOS
+https://arxiv.org/abs/2105.10013
+
 Demo notebook: https://colab.research.google.com/drive/1IlRDJQYSRkRlGBCwvroL38zNjjkEyPot?usp=sharing
 
 Download pre-trained model: https://www.dropbox.com/s/3ncaams6abkson9/MNIST_Omniglot_GMM_4comp_model.pth?dl=0
